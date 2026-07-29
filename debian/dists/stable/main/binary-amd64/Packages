@@ -1,13 +1,13 @@
 Package: bootc
-Version: 1.16.3
+Version: 1.16.6
 Architecture: amd64
 Maintainer: JumpyVi <jumpyvi@outlook.com>
 Depends: dracut, ostree, libostree-dev
 Filename: pool/main/bootc_amd64.deb
-Size: 67089368
-MD5sum: 865da3d6ce4c9794769d615e39b7ee4b
-SHA1: 9b2a490145adcec4c52aa1f6e0db73c5d6a83a77
-SHA256: 9e18015897c7c4e4e0f49264850dc8b5fafd4a0a4a25c92a0bac55fd6dd8d87e
+Size: 67691636
+MD5sum: a3c53b010b7fabe41731e1f2f444651b
+SHA1: abf8178655f91fda73f77b7163af58f8774c5222
+SHA256: bfaae098b098c848fa7653466264a13ba3fd90b2a39311bbfd60edcdb529ccc3
 Section: admin
 Priority: optional
 Description: bootc
