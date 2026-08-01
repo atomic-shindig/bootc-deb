@@ -18,10 +18,10 @@ Architecture: amd64
 Maintainer: JumpyVi <jumpyvi@outlook.com>
 Depends: dbus, libsystemd0
 Filename: pool/main/brew-proxy-git_amd64.deb
-Size: 1887064
-MD5sum: 0a9bc36da105b6d793fa8b59d624e375
-SHA1: 9c398c6146506f58274b4013472465615d80cb62
-SHA256: aab9a9437554ecae8db649999650f3febdddda8d3d22b3ef7e44eb367850e4ca
+Size: 1886920
+MD5sum: b9e0b3a6c74669709de9014e287697fd
+SHA1: 084c4c716b991a906436b2f5f9c201dd858ec73f
+SHA256: 6f26e078cf173c3e9fed5b3f54a6077bc7750c169fd4fb8dab34f88c87fa6358
 Section: admin
 Priority: optional
 Description: DBus-activated service for securely managing a shared Homebrew install (git version)
