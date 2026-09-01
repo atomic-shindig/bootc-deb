@@ -27,15 +27,15 @@ Priority: optional
 Description: DBus-activated service for securely managing a shared Homebrew install (git version)
 
 Package: foot-git
-Version: 766e227
+Version: 765ca40
 Architecture: amd64
 Maintainer: JumpyVi <jumpyvi@outlook.com>
 Depends: libwayland-client0, libxkbcommon0, libfontconfig1, libfreetype6, libpixman-1-0, libutf8proc3
 Filename: pool/main/foot-git_amd64.deb
-Size: 380612
-MD5sum: fe22f62654eb22cb9a7c14be2c4623e7
-SHA1: 6533129167fd2b00ea97c0337a1f4d8f2c6d3966
-SHA256: e739e67dad85c3bb2afb623c01c715198fb81cefa4fd9436e0f7f4b45277d26e
+Size: 381504
+MD5sum: 1a20a854121e35a0176985b53fcb7db2
+SHA1: c22ca97c7d803554a561ec8095493137ebca66a1
+SHA256: 254b26a0b5e93f63145d7146f98613bc602668bdf630c933bf0b60b70cec314f
 Section: x11
 Priority: optional
 Description: A fast, lightweight and minimalistic Wayland terminal emulator (git version)
